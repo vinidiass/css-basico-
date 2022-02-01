@@ -1,0 +1,39 @@
+
+/*id*/
+
+#titulo1 {
+  color: red;
+}
+
+#titulo2 {
+  color: blue;
+}
+
+#titulo3 {
+  color: darkgreen;
+}
+
+#titulo4 {
+  color: indigo;
+}
+
+        /*class*/
+
+.titulo1{
+    color: indigo;
+}
+
+.titulo2 {
+    color: darkgreen;
+}
+
+.titulo3 {
+    color: blue;
+}
+
+.titulo4 {
+    color: red;
+}
+
+
+/* Parecem que elas fazem as mesmas coisas, mas a CLASS posso utilizar  em mais de um elemento e o ID não*/

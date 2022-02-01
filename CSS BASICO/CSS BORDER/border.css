@@ -1,0 +1,34 @@
+.borda{
+
+        border-width: 10px;
+     
+        border-color: yellowgreen;
+       border-radius: 15%;
+}
+
+.quadrado{
+
+    width: 100px;
+    height: 100px;
+    background-color: purple;
+
+}
+
+
+.dotted {border-top-style: dotted;}
+.dashed {border-style: dashed;}
+.solid {border-style:solid;}
+.none {border-style:none;}
+.hidden {border-style:hidden;}
+
+/*Aqui temos* alguns estiolos de bordas
+
+                "MODO SIMPLES"
+
+                .border{
+
+                    border: 5px dashed blue;
+
+*/
+
+

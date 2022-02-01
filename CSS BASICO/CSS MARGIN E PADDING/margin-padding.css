@@ -1,0 +1,11 @@
+#base {
+  height: 10x;
+  background-color: rgb(202, 146, 255);
+}
+
+#container {
+  height: 60px;
+  background-color: red;
+  color: white;
+  padding: 10px;
+}

@@ -1,0 +1,22 @@
+.container {
+
+    font-size: 25px;
+    height: 100px;
+    width: 300px;
+    background-color: red;
+
+}
+
+.inside{
+    width: 500px;
+    height: 500px;
+    background-color: pink;
+}
+
+
+.vw{
+width: 300vw;
+height: 200px;
+background-color: rebeccapurple;
+
+}

@@ -1,0 +1,22 @@
+.links {
+  text-decoration: none;
+  color: red;
+  cursor: move;
+  padding: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 10px;
+  border: 2px solid red;
+}
+
+.links:active {
+  background-color: red;
+  color: yellow;
+}
+
+/*active = toda vez que voce clica o cursor aciona
+houver = toda vez que passa por cima do link o cursor ativa
+
+*/
+
+

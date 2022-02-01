@@ -1,0 +1,42 @@
+.minusculo {
+  color: tomato;
+  text-transform: capitalize;
+}
+
+.maiusculo {
+  color: blue;
+  text-transform: uppercase;
+}
+
+.letra {
+  color: green;
+  text-transform: capitalize;
+}
+
+.começo {
+  color: indigo;
+  text-indent: 50px;
+}
+
+.sublinhado {
+  color: red;
+  text-decoration: overline;
+  /*text- decoration:line-through;
+    text-overline;   */
+}
+
+.sombra {
+  color: red;
+  text-indent: 15px;
+  text-shadow: 2px 2px 5px black;
+}
+
+/*text-alling:justify; é para deixar o texto justificado
+
+text-tranform lowercase; deixa o texto todo em minusculo
+text-transform: uppercase; deixa o texto todo em maiúsculo 
+text-transform: captalize; é para deixar todos os unicios de palvras com letras maiúculas
+text-indent: 15px; Aumenta o pagrafo(Caso seja necessário)
+line-height: px define o expassamento das palavras
+text-shadow: serve para colocar sombra 
+*/

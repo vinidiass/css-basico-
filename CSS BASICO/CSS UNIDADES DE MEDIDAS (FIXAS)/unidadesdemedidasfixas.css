@@ -1,0 +1,44 @@
+#cm {
+  background-color: blue;
+  width: 1cm;
+  /*largura*/
+  height: 1cm;
+  /*altura*/
+}
+
+#mm {
+  background-color: red;
+  width: 5mm;
+  /*largura*/
+  height: 5mm;
+  /*altura*/
+}
+
+#in {
+  background-color: rgb(251, 255, 0);
+  width: 2in;
+  /*largura*/
+  height: 2in;
+  /*altura*/
+}
+
+/* 'in' significa polegada*/
+
+#pix {
+  background-color: deeppink;
+  width: 100px;
+  height: 100px;
+}
+
+#pt {
+  background-color: steelblue;
+  width: 20pt;
+  height: 20pt;
+}
+
+#pc {
+background-color: indigo;
+width: 15pc;
+height: 15pc;
+
+}

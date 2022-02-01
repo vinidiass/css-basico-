@@ -1,0 +1,22 @@
+body{
+  background-image: url(imagen/20-sites-para-aprender-como-programar-de-graça.png);
+
+/*Aqui a imagem fica inserida, porem se repete da pagina inteira pelo fato de estar no body e nao em um elemto especifico como por ex:<h1> vinicius </>*/
+
+background-repeat: no-repeat;
+
+/*para que as imagens nao fique se repetindo*/
+
+background-size:cover;
+
+/*para cobrir o um elemento ou a página */
+background-attachment: ;
+
+}
+
+/*podemos ultilizar a tag <div></div> dentro do código inteiro, e com todos os elementos dentro de body automaticamente fica com a imagem por completo
+
+*ela nao é uma tag semântica, que da sentido pro código e nem pro navegador
+
+*podemos ter 1 <div> dentro de outra.
+*/
